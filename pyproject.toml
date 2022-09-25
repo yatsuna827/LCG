@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "lcg"
+version = "0.1.0"
+description = ""
+authors = ["yatsuna827 <yatsuna_827@yahoo.co.jp>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+
+[tool.poetry.group.dev.dependencies]
+flake8 = "^5.0.4"
+black = "^22.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
