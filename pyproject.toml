@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lcg"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["yatsuna827 <yatsuna_827@yahoo.co.jp>"]
 license = "MIT"
